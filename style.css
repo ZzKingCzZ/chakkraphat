@@ -1,7 +1,9 @@
 .design {
   width: 400px;
   background: gold;
-  padding: 10px;
+  padding: 30px;
+  text-align: left;
+  border-radius: 30px;
 }
 body {
   background: orange; 
