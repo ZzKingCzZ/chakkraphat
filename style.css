@@ -5,6 +5,7 @@ body {
   background: #281e27; 
   text-align: center;
   color: #fff;
+  position: relative;
 }
 .box {
   width: 400px;
@@ -25,4 +26,11 @@ body {
 }
 img {
   width: 100%;
+}
+
+.logo {
+  width: 155px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
 }
