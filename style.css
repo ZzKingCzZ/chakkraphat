@@ -2,6 +2,9 @@ h1 {
     color: blue;
 }
 .design {
-  width: 180px;
+  width: 360px;
   background: yellow;
+}
+body {
+  background: orange;   
 }
