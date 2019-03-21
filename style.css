@@ -6,6 +6,7 @@ body {
   text-align: center;
   color: #fff;
   position: relative;
+  font-family: 'Oswald', sans-serif;
 }
 .box {
   width: 400px;
@@ -36,4 +37,7 @@ img {
 }
 a {
   color: #fff;
+}
+h1, h2, h3 {
+  font-family: 'Permanent Marker', cursive;
 }
