@@ -1,8 +1,8 @@
 .design {
-  background: #fbe262;
+  border: dotted 2px #fbf7eb;
 }
 body {
-  background: #fbcf5f; 
+  background: #281e27; 
   text-align: center;
 
 }
@@ -12,17 +12,16 @@ body {
   text-align: left;
   border-radius: 30px;
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px;
 }
 .program {
-  background: #f9be4a;
+  border: solid 2px #ffc973;
 }
 .box-header {
   text-align: center;
 }
 .trine {
-  background: #ffb651;
+  border: dashed 2px #c98a2f;
 }
 img {
   width: 100%;
